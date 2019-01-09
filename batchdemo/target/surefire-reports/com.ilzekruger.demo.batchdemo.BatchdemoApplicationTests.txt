@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ilzekruger.demo.batchdemo.BatchdemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.935 s - in com.ilzekruger.demo.batchdemo.BatchdemoApplicationTests

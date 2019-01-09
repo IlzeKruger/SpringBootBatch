@@ -1,0 +1,4 @@
+com\ilzekruger\demo\batchdemo\LineItemProcessor.class
+com\ilzekruger\demo\batchdemo\BatchConfigurationProcessing.class
+com\ilzekruger\demo\batchdemo\JobCompletionNotificationListener.class
+com\ilzekruger\demo\batchdemo\BatchdemoApplication.class
